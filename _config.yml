@@ -59,12 +59,12 @@ plugins:
 
 author:
   name   : "Eric Ho"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile_Pic.jpg"
   bio    : "Educational researcher, musician, cyclist, foodie, Dodgers/Lakers fan"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/ericmho/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erc_ho"
