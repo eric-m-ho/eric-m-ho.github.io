@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a doctoral student in the Social Research Methodology division in the Department of Education at the UCLA Graduate School of Education and Information Studies. I am advised by Dr. Minjeong Jeon and Dr. Noreen Webb.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+As a quantitative methodologist, I am interested in the development and application of quantitative tools for educational research and policy analysis. My current research interests include causal inference, multilevel modeling, latent space modeling, and the application of data science tools in educational research.
+
+I have worked as a data analyst and consultant in various educational settings, such as within a large charter school network and for a small middle school. I graduated cum laude and with departmental honors from Columbia University with a major in data science and special concentration in educational studies.
+
+I am currently open to research collaborations and opportunities as well as contract work. Please do not hesitate to contact me at ericmho@ucla.edu.
