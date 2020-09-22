@@ -1,5 +1,5 @@
 ---
-permalink: /CV/
+permalink: /cv/
 title: "CV"
 ---
 *full CV available upon request*
