@@ -6,7 +6,7 @@ title: "CV"
 
 ### Email
 
-ericmho@ucla.edu
+ericmho [at] ucla [dot] edu
 
 ### Education
 
