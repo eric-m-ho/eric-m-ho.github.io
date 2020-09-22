@@ -11,15 +11,17 @@ ericmho@ucla.edu
 ### Education
 
 **University of California, Los Angeles**  
-Doctor of Philosophy in Education, Emphasis in Social Research Methodology 
+Doctor of Philosophy in Education  
+*Emphasis in Social Research Methodology*  
 Sept. 2019 - present  
 
-Master of Arts in Education, Emphasis in Social Research Methodology  
+Master of Arts in Education  
+*Emphasis in Social Research Methodology*  
 Sept. 2019 - June 2020
 
 **Columbia University in the City of New York**  
 Bachelor of Arts in Data Science, Special Concentration in Educational Studies  
-Cum Laude, Departmental Honors from the Department of Statistics  
+*Cum Laude, Departmental Honors from the Department of Statistics*  
 Sept. 2013 - May 2017   
 
 
