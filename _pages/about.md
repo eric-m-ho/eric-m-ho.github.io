@@ -9,4 +9,4 @@ As a quantitative methodologist, I am interested in the development and applicat
 
 I have worked as a data analyst and consultant in various educational settings, such as within a large charter school network and for a small middle school. I graduated cum laude and with departmental honors from Columbia University with a major in data science and special concentration in educational studies.
 
-I am currently open to research collaborations and opportunities as well as contract work. Please do not hesitate to contact me at ericmho@ucla.edu.
+I am currently open to research collaborations and opportunities as well as contract work. Please do not hesitate to contact me at ericmho [at] ucla [dot] edu
