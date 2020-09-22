@@ -16,7 +16,7 @@
 title: Eric Ho
 email: ericmho@ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in the [Jeon Lab]{https://sites.google.com/site/arbormj/students} at the Department of Education at the UCLA Graduate
+  PhD student in the [Jeon Lab]{https://sites.google.com/site/arbormj/students} in the Department of Education in the UCLA Graduate
   School of Education and Information Studies. Amateur data scientist, cyclist,
   musician, and foodie. Go Dodgers and Lakers!
 twitter_username: erc_ho
@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Eric Ho"
   avatar : "/assets/images/Profile_Pic.jpg"
-  bio    : "Educational researcher, musician, cyclist, foodie, Dodgers/Lakers fan"
+  bio    : "PhD student in the [Jeon Lab]{https://sites.google.com/site/arbormj/students} in the Department of Education in the UCLA Graduate
+  School of Education and Information Studies."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
