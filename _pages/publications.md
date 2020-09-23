@@ -22,3 +22,5 @@ data. Created for a paper to be authored with Dr. Alex Bowers
 
 [UC Data for Mark Keppel High](https://ohrice.shinyapps.io/MKHS_UC_Shiny/): An app created using the Shiny package in R that displays acceptance, admission, and enrollment rates for
 various UC schools for students from my old high school
+
+[The Greater Los Angeles Boba Map](https://public.tableau.com/profile/arthur.wang2564#!/vizhome/bobadata2/Dashboard1): A map of boba places in Greater Los Angeles, created using Tableau and data pulled from the Yelp API in collaboration with Arthur Wang
