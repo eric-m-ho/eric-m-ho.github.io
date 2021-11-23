@@ -11,9 +11,9 @@ title: "Publications and Projects"
 
 Bowers, A.J., Zhao, Y., & **Ho, E.** (2022, April 21---26). *Towards hierarchical cluster analysis heatmaps as visual data analysis of entire student cohort longitudinal trajectories and outcomes from grade 9 through college* [Paper session]. AERA Annual Meeting, San Diego, CA. https://www.aera.net/Events-Meetings/Annual-Meeting
 
-**Ho, E.** & Jeon, M. (2021, October 21---22). *Supporting instruction and student learning through interaction maps* [Poster session]. NCME Classroom Assessment Conference, virtual. https://www.ncme.org/meetings/classroom
+**Ho, E.**, & Jeon, M. (2021, October 21---22). *Supporting instruction and student learning through interaction maps* [Poster session]. NCME Classroom Assessment Conference, virtual. https://www.ncme.org/meetings/classroom
 
-**Ho, E.** & Jeon, M. (2020, April 16---20). *Latent space item response modeling approach for binary and continuous item responses* [Research blitz]. NCME Annual Meeting, San Francisco, CA. http://tinyurl.com/wsoozl3 (Conference Canceled)
+**Ho, E.**, & Jeon, M. (2020, April 16---20). *Latent space item response modeling approach for binary and continuous item responses* [Research blitz]. NCME Annual Meeting, San Francisco, CA. http://tinyurl.com/wsoozl3 (Conference Canceled)
 
 ## Personal Projects
 [California Schools and CAASPP/SAT](https://public.tableau.com/profile/eric.ho5166#!/vizhome/CASchools/SATOverall): A Tableau workbook that displays all California public schools, color-coded by the percentage of
