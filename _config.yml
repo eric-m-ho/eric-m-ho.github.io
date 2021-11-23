@@ -16,8 +16,7 @@
 title: Eric Ho
 email: ericmho@ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in the [Jeon Lab](https://sites.google.com/site/arbormj/students) in the Department of Education in the UCLA Graduate
-  School of Education and Information Studies. Amateur data scientist, cyclist,
+  PhD student in the [Jeon Lab](https://sites.google.com/site/arbormj/students) in the Department of Education in the UCLA School of Education and Information Studies. Amateur data scientist, cyclist,
   musician, and foodie. Go Dodgers and Lakers!
 twitter_username: erc_ho
 github_username: eric-m-ho
@@ -74,7 +73,7 @@ author:
       url: "https://github.com/eric-m-ho"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hohoho_itseric"
+      url: "https://instagram.com/hohoho_itseric/"
 
 footer:
   links:
@@ -86,7 +85,7 @@ footer:
       url: "https://github.com/eric-m-ho"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hohoho_itseric"
+      url: "https://instagram.com/hohoho_itseric/"
 
 defaults:
   # _posts
