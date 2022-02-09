@@ -13,11 +13,11 @@ ericmho [at] ucla [dot] edu
 **University of California, Los Angeles**  
 Doctor of Philosophy in Education  
 *Emphasis in Social Research Methodology*  
-Sept. 2019 - present  
+Sept. 2018 - present  
 
 Master of Arts in Education  
 *Emphasis in Social Research Methodology*  
-Sept. 2019 - June 2020
+Sept. 2018 - June 2019
 
 **Columbia University in the City of New York**  
 Bachelor of Arts in Data Science, Special Concentration in Educational Studies  
