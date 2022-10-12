@@ -4,6 +4,11 @@ title: "Publications and Projects"
 ---
 ## Publications
 
+
+Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, B. (2022). Relationships between changing communication networks and changing perceptions of psychological safety in a team science setting: Analysis with actor-oriented social network models. *PLOS ONE, 17*(8), Article e0273899. <https://doi.org/10.1371/journal.pone.0273899>
+
+
+
 **Ho, E.**, Jeon, M., Lee, M., Luo, J., Pfammatter, A.F., Shetty, V., & Spring, B. (2021). Fostering interdisciplinary collaboration: A longitudinal social network analysis of the NIH mHealth Training Institutes. *Journal of Clinical and Translational Science, 5*(1), Article E191.  <https://doi.org/10.1017/cts.2021.859>
 
 
