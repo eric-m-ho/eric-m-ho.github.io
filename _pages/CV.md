@@ -11,16 +11,16 @@ ericmho [at] ucla [dot] edu
 ### Education
 
 **University of California, Los Angeles**  
-Doctor of Philosophy in education  
+Doctor of Philosophy in Education  
 *Emphasis in Social Research Methodology*  
-Sept. 2018 - present (Advanced to candidacy in February 2022) 
+Sept. 2018 - June 2023
 
 Master of Arts in Education  
 *Emphasis in Social Research Methodology*  
 Sept. 2018 - June 2019
 
 **Columbia University in the City of New York**  
-Bachelor of Arts in data science, Special Concentration in educational studies  
+Bachelor of Arts in Data Science, Special Concentration in Educational Studies  
 *Cum Laude, Departmental Honors from the Department of Statistics*  
 Sept. 2013 - May 2017   
 
@@ -45,6 +45,6 @@ June 2019 - Sept. 2019, June 2020 - Sept. 2020
 
 **Gordon and Olga Smith Fellowship**  
 UCLA Graduate School of Education and Information Studies  
-Sept. 2018 - June 2019
+Sept. 2018 - June 2019; April 2023
 
 
