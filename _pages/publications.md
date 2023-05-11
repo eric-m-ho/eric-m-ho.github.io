@@ -4,6 +4,9 @@ title: "Publications and Projects"
 ---
 ## Publications
 
+Bowers, A.J., Zhao, Y., & **Ho, E.** (in press). Towards hierarchical cluster analysis heatmaps as visual data analysis of entire
+student cohort longitudinal trajectories and outcomes from grade 9 through college. *The High School Journal.*
+
 
 Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, B. (2022). Relationships between changing communication networks and changing perceptions of psychological safety in a team science setting: Analysis with actor-oriented social network models. *PLOS ONE, 17*(8), Article e0273899. <https://doi.org/10.1371/journal.pone.0273899>
 
@@ -13,12 +16,15 @@ Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, 
 
 
 ## Conference Presentations
+**Ho, E.**, Boyd, B., Hicks, J., & Hemphill, C.. (2023, April 13---15). *Operation REQUISITE: Re-envisioning Educational Quantitative User Information: Shiny Interface to Explore* [Demonstration session]. NCME Annual Meeting, Chicago, IL, United States. 
 
-Bowers, A.J., Zhao, Y., & **Ho, E.** (2022, April 21---26). *Towards hierarchical cluster analysis heatmaps as visual data analysis of entire student cohort longitudinal trajectories and outcomes from grade 9 through college* [Paper session]. AERA Annual Meeting, San Diego, CA. <https://www.aera.net/Events-Meetings/Annual-Meeting>
+**Ho, E.**, & Jeon, M. (2023, April 13---15). *Supporting instruction and student learning through interaction maps* [Paper session]. NCME Annual Meeting, Chicago, IL, United States. 
 
-**Ho, E.**, & Jeon, M. (2021, October 21---22). *Supporting instruction and student learning through interaction maps* [Poster session]. NCME Classroom Assessment Conference, virtual. <https://www.ncme.org/meetings/classroom>
+Bowers, A.J., Zhao, Y., & **Ho, E.** (2022, April 21---26). *Towards hierarchical cluster analysis heatmaps as visual data analysis of entire student cohort longitudinal trajectories and outcomes from grade 9 through college* [Paper session]. AERA Annual Meeting, San Diego, CA, United States. 
 
-**Ho, E.**, & Jeon, M. (2020, April 16---20). *Latent space item response modeling approach for binary and continuous item responses* [Research blitz]. NCME Annual Meeting, San Francisco, CA. <http://tinyurl.com/wsoozl3> (Conference Canceled)
+**Ho, E.**, & Jeon, M. (2021, October 21---22). *Supporting instruction and student learning through interaction maps* [Poster session]. NCME Classroom Assessment Conference, virtual. 
+
+**Ho, E.**, & Jeon, M. (2020, April 16---20). *Latent space item response modeling approach for binary and continuous item responses* [Research blitz]. NCME Annual Meeting, San Francisco, CA, United States. (Conference Canceled)
 
 ## Personal Projects
 [California Schools and CAASPP/SAT](https://public.tableau.com/profile/eric.ho5166#!/vizhome/CASchools/SATOverall): A Tableau workbook that displays all California public schools, color-coded by the percentage of
