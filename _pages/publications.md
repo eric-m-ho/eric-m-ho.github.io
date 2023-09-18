@@ -4,8 +4,8 @@ title: "Publications and Projects"
 ---
 ## Publications
 
-Bowers, A.J., Zhao, Y., & **Ho, E.** (in press). Towards hierarchical cluster analysis heatmaps as visual data analysis of entire
-student cohort longitudinal trajectories and outcomes from grade 9 through college. *The High School Journal.*
+Bowers, A.J., Zhao, Y., & **Ho, E.** (2022). Towards hierarchical cluster analysis heatmaps as visual data analysis of entire
+student cohort longitudinal trajectories and outcomes from grade 9 through college. *The High School Journal, 106*(1), 5-36. <https://doi.org/10.1353/hsj.2022.a906700>
 
 
 Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, B. (2022). Relationships between changing communication networks and changing perceptions of psychological safety in a team science setting: Analysis with actor-oriented social network models. *PLOS ONE, 17*(8), Article e0273899. <https://doi.org/10.1371/journal.pone.0273899>
