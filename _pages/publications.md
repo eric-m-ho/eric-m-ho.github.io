@@ -4,6 +4,9 @@ title: "Publications and Projects"
 ---
 ## Publications
 
+**Ho, E.**, Seltzer, M., & Jeon, M. (2024). Are teachers meeting students’ needs in untracked science classrooms? Evidence based
+on a causal inferential approach. *PLoS ONE, 19*(4), Article e0300587. <https://doi.org/10.1371/journal.pone.0300587>
+
 **Ho, E.**, & Jeon, M. (2023). Interaction map: A visualization tool for personalized learning based on assessment data. *Psych, 5*(4), 1140-1155. <https://doi.org/10.3390/psych5040076>
 
 
@@ -11,7 +14,7 @@ Bowers, A.J., Zhao, Y., & **Ho, E.** (2022). Towards hierarchical cluster analys
 student cohort longitudinal trajectories and outcomes from Grade 9 through college. *The High School Journal, 106*(1), 5-36. <https://doi.org/10.1353/hsj.2022.a906700>
 
 
-Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, B. (2022). Relationships between changing communication networks and changing perceptions of psychological safety in a team science setting: Analysis with actor-oriented social network models. *PLOS ONE, 17*(8), Article e0273899. <https://doi.org/10.1371/journal.pone.0273899>
+Luo, J., Jeon, M., Lee, M., **Ho, E.**, Pfammatter, A.F., Shetty, V., & Spring, B. (2022). Relationships between changing communication networks and changing perceptions of psychological safety in a team science setting: Analysis with actor-oriented social network models. *PLoS ONE, 17*(8), Article e0273899. <https://doi.org/10.1371/journal.pone.0273899>
 
 
 
