@@ -6,7 +6,7 @@ title: "CV"
 
 ### Email
 
-ericmho [at] ucla [dot] edu
+ericho787 [at] gmail [dot] com
 
 ### Education
 
