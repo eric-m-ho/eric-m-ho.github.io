@@ -1,0 +1,5 @@
+---
+title: "New publication: No matter how you slice it, Black students are punished more: The persistence and pervasiveness of discipline disparities"
+---
+
+With Professor Sean Darling-Hammond, who currently works at UC Berkeley, I have published an article in *AERA Open*. You can read our work [here](https://doi.org/10.1177/23328584241293411). In this manuscript, we analyze public-use data files from the Civil Rights Data Collection (CRDC) from the Office for Civil Rights (OCR) within the U.S. Department of Education to show that no matter how you slice it with regards to different metrics and comparison groups, Black students are punished more with regards to disciplinary practices such as suspensions and expulsions. I really enjoyed working on this paper and am privileged to be able to work within OCR as a statistician!

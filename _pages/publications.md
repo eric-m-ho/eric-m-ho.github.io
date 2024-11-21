@@ -4,6 +4,9 @@ title: "Publications and Projects"
 ---
 ## Publications
 
+Darling-Hammond, S., & **Ho, E.** (2024). No matter how you slice it, Black students are punished more: The persistence and pervasiveness of discipline disparities. *AERA Open, 10*. <https://doi.org/10.1177/23328584241293411>
+
+
 **Ho, E.**, Seltzer, M., & Jeon, M. (2024). Are teachers meeting students’ needs in untracked science classrooms? Evidence based
 on a causal inferential approach. *PLoS ONE, 19*(4), Article e0300587. <https://doi.org/10.1371/journal.pone.0300587>
 
